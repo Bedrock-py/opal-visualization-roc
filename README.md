@@ -1,4 +1,4 @@
-opal-visualization-scatterplot
+opal-visualization-roc
 ==============================
 THIS NOTICE APPLIES TO ALL FILES CONTAINED WITHIN THIS REPOSITORY
 
