@@ -1,0 +1,14 @@
+{ "opal-visualization-roc": 
+        {
+            "description": "ROC",
+            "host": "github.gatech.edu",
+            "repo": "Bedrock/opal-visualization-roc.git",
+            "units": "ROC.py",
+            "supports": "",
+            "python_dependencies": "",
+            "system_dependencies": "",
+            "api": "visualization",
+            "interface": "visualization",
+            "installation_script": ""
+        }
+}
