@@ -11,8 +11,8 @@
 # permission of the Georgia Tech Research Institute.
 #****************************************************************/
 
-from visualization.utils import *
-from visualization.colors import brews
+from bedrock.visualization.utils import *
+from bedrock.visualization.colors import brews
 import vincent, json
 import numpy as np
 import matplotlib.pyplot as plt
